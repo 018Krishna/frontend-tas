@@ -6,7 +6,7 @@ With this dashboard, you can toggle between Financial Year (FY) and Calendar Yea
 
 ## screenshot
 
-![Alt text describing image](screenshot/data.png)
+![Alt text describing image](screenshot/data1.png)
 
 
 
