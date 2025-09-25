@@ -4,6 +4,9 @@ Hey there! 👋 Welcome to the Fuel RSP Dashboard, a React app that helps you vi
 
 With this dashboard, you can toggle between Financial Year (FY) and Calendar Year (CY), filter by city, fuel type, and year, and see the data come alive in interactive charts powered by ECharts.
 
+[View Frontend on Vercel](https://frontend-tas-ey8z.vercel.app)
+
+
 ## screenshot
 
 ![Alt text describing image](public/data.png)
