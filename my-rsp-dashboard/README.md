@@ -59,13 +59,18 @@ With this dashboard, you can toggle between Financial Year (FY) and Calendar Yea
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/fuel-rsp-dashboard.git
-cd fuel-rsp-dashboard
+git clone https://github.com/018Krishna/frontend-tas/my-rsp-dashboard.git
+cd my-rsp-dashboard
 
 
 yarn add install
 
 yarn dev
+
+## live view
+
+[View Frontend on Vercel](https://frontend-tas-ey8z.vercel.app)
+
 
 
 
